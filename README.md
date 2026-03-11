@@ -1,16 +1,19 @@
-## Hi there 👋
-
+## Hi I'm Anna 👋
+Junior Frontend Developer focused on building responsive and accessible web interfaces.
 <!--
-**Anya2907/Anya2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+- HTML5
+- CSS3 / SASS
+- JavaScript (ES6+)
+- Flexbox / Grid
+- Responsive Design
+- REST API
+- Axios / Fetch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### WebStudio Landing Page
+Responsive landing page with mobile menu and modal form.
+
+🔗 [Live Demo ](https://anya2907.github.io/Effective-Solutions-for-Your-Business/) 
+🔗 [GitHub Repository](https://github.com/Anya2907/Effective-Solutions-for-Your-Business)
 -->
