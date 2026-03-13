@@ -1,6 +1,5 @@
 ## Hi I'm Anna 👋
 Junior Frontend Developer focused on building responsive and accessible web interfaces.
-<!--
 ## Tech Stack
 
 - HTML5
@@ -14,6 +13,6 @@ Junior Frontend Developer focused on building responsive and accessible web inte
 ### WebStudio Landing Page
 Responsive landing page with mobile menu and modal form.
 
-🔗 [Live Demo ](https://anya2907.github.io/Effective-Solutions-for-Your-Business/) 
+🔗 [Live Demo ] (https://anya2907.github.io/Effective-Solutions-for-Your-Business/) 
 🔗 [GitHub Repository](https://github.com/Anya2907/Effective-Solutions-for-Your-Business)
--->
+
